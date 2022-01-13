@@ -1,7 +1,7 @@
 # IoT-LocalHackDayBuild
 Workshop Content
 
-[Session 1 PowerPoint](https://stdntpartners-my.sharepoint.com/personal/ritvi_mishra_studentambassadors_com/_layouts/15/Doc.aspx?sourcedoc={216d2755-315e-4506-878e-75455f3eefe5}&amp;action=embedview&amp;wdAr=1.7777777777777777)
+[Session 1 PowerPoint](https://stdntpartners-my.sharepoint.com/:p:/g/personal/ritvi_mishra_studentambassadors_com/EVUnbSFeMQZFh451RV8-7-UBMfdpy1fc4P03iBhbxUw6UA?e=e9zoRd)
 
 [Session 2 PowerPoint](https://stdntpartners-my.sharepoint.com/:p:/g/personal/ritvi_mishra_studentambassadors_com/EcfXs8sbkeJIjUBFpFTwGREBX7aOT2Ktjd7BG-P2T8RjhQ?e=fmnJlX)
 
