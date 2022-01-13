@@ -11,9 +11,9 @@ Links to Resources
 
 [Azure for Students](https://azure.microsoft.com/en-us/free/students)
 
-[Anaconda : For Python Environment ]()
+[Anaconda : For Python Environment ](https://www.anaconda.com/products/individual)
 
-[Microsoft Telemetry Setup Doc]()
+[Microsoft Telemetry Setup Doc](https://docs.microsoft.com/en-us/azure/iot-develop/quickstart-send-telemetry-iot-hub?pivots=programming-language-python)
 
 [Microsoft C2D Doc Simulated Device](https://docs.microsoft.com/en-us/azure/iot-hub/iot-hub-python-python-c2d#receive-messages-in-the-simulated-device-app)
 
